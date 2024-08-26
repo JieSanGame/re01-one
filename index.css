@@ -1,0 +1,12 @@
+.ordinary{
+    max-width: 700px;
+    margin: 30px auto;
+    padding: 10px;
+    line-height: 1.7;
+    font-size: 15px;
+}
+.adjunct{
+     background-color: #f1f1f1;
+     text-align: center;
+     padding: 30px;
+}
